@@ -30,7 +30,7 @@ Page {
                       "properties": { "name": "location" },
                       "geometry": {
                           "type": "Point",
-                          "coordinates": [(48.85604723), (2.35390723)]
+                          "coordinates": [(2.35390723), (48.85604723)]
                       }
                   }
               })
